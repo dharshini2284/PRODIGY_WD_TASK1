@@ -1,2 +1,7 @@
-# PRODIGY_WD_TASK1
-This is the task1 on prodigy internship (Respnsive landing page)
+# Dish-A-Day-Recipe-Website
+
+"Learn Cook Share. Cooking Made Easy"
+
+> Say good bye to long and frustrating food blogs and recipe videos.<br>Access our recipe cards to prepare any dish in minutes.
+
+
